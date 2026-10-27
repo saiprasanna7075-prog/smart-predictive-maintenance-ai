@@ -17,7 +17,13 @@
   <strong>An intelligent condition-monitoring and failure diagnosis workstation comparing Ensemble Learning (XGBoost, Random Forest), Maximum-Margin Classification (SVM), and Deep Learning (1D CNN) on 10,000 industrial machine cycles.</strong>
 </p>
 
-[Live Demo](#-quick-start) • [Dataset Protocol](#-dataset-partitioning-protocol) • [Model Benchmarks](#-multi-model-benchmark-results) • [Architecture](#-system-pipeline-architecture) • [API Docs](#-fastapi-backend-endpoints)
+<p align="center">
+  <a href="https://saiprasanna7075-prog.github.io/smart-predictive-maintenance-ai/">
+    <img src="https://img.shields.io/badge/🌐_LAUNCH_LIVE_DASHBOARD-ONLINE-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Launch Live Dashboard" />
+  </a>
+</p>
+
+[🌐 Live Web Demo](https://saiprasanna7075-prog.github.io/smart-predictive-maintenance-ai/) • [Dataset Protocol](#-dataset-partitioning-protocol) • [Model Benchmarks](#-multi-model-benchmark-results) • [Architecture](#-system-pipeline-architecture) • [API Docs](#-fastapi-backend-endpoints)
 
 </div>
 
